@@ -1,1 +1,1 @@
-# buddy-finder-django
+# buddy-finder-django-tut
